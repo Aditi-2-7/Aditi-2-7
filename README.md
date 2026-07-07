@@ -36,10 +36,12 @@
 ### 🛠️ Skills & Technologies
 
 **Languages**
-- Python, C++, Java, SQL
+- Python, C, C++, Java, SQL, Shell Scripting  
 
 **AI / ML**
 - Machine Learning Algorithms
+- LLM, Generative AI, Federated Learning
+-  Distributed learning, Agentic AI, Genetic AI
 - Deep Learning (ANN, CNN, RNN)
 - NLP & Computer Vision
 - Model Evaluation & Optimization
